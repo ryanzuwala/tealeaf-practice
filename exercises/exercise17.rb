@@ -8,3 +8,5 @@
 # else
 #   puts "These hashes are not the same!"
 # end
+
+# Answer: The hashes are the same
